@@ -18,7 +18,7 @@
 - у  RTSCamera в свойство tracking target добавить PlayerEmpty 
 - у PlayerEmpty в компоненте InputHandler установить CamRTS камеру RTSCamera 
 
--настроить вид для CamRTS с учетом параметров камеры у PlayerEmptyController
+- настроить вид для CamRTS с учетом параметров камеры у PlayerEmptyController
 
 ## License
 
